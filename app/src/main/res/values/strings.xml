@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GPS Будильник </string>
+    <string name="title_activity_maps">GPS Будильник</string>
+    <string name="done">Готово</string>
+    <string name="cancel">Отмена</string>
+    <string name="check_point_name_hint">Введите название будильника</string>
+    <string name="destination_reached">Вы прибыли к месту назначения</string>
+    <string name="button_dismiss_label">Отклонить</string>
+    <string name="launch_activity">Отслеживание</string>
+    <string name="unknown_location">Неизвестное местоположение</string>
+    <string name="location_reached">Вы на месте</string>
+    <string name="current_location">Вы здесь</string>
+    <string name="settings">Настройки</string>
+    <string name="ok">ОК</string>
+    <string name="permission_rationale">Для функционирования приложения необходим доступ к GPS</string>
+    <string name="permission_denied_explanation">Доступ не был получен.</string>
+    <string name="remove_location_updates">Удаление</string>
+    <string name="lat_dialog_text">Широта:</string>
+    <string name="long_dialog_text">Долгота:</string>
+    <string name="destination">Положение</string>
+    <string name="pin">Метка</string>
+    <string name="tag">myapp:mywakelocktag.</string>
+</resources>
